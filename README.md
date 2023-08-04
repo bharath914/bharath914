@@ -1,12 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">A passionate Native Android developer from India</h3>
-<img 
-  align ="center"
-  src="https://c0.wallpaperflare.com/preview/379/493/189/concept-development-device-flat.jpg"
-height="300" width = "600"
-/>
 
+<img src="https://cdn.dribbble.com/userupload/6164025/file/original-85b5344e2e52d0ee37f36839f17bcb4f.png?resize=1324x1320" height ="300" width ="400" align = "right"/>
 - 🔭 I’m currently working on
 [MusicPlayer](https://github.com/bharath914/MusicPlayer-JetpackCompose.git)
 
