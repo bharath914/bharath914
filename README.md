@@ -1,11 +1,10 @@
-<img align = "center" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/w1200-h630-p-k-no-nu/image1.gif"
-alt="Android"/>
+
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">A passionate Native Android developer from India</h3>
 <img 
   align ="center"
   src="https://c0.wallpaperflare.com/preview/379/493/189/concept-development-device-flat.jpg"
-height="300" width="500"
+height="300" width = "600"
 />
 
 - 🔭 I’m currently working on
