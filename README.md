@@ -23,7 +23,7 @@
             alt="bharath-prakash-g77" height="30" width="40" /></a>
     <a href="https://instagram.com/_bharath914_" target="blank"><img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            src="https://ouch-cdn2.icons8.com/_US60I188UuoRurpJ9lfFmfp5baT-Gtp3bghSn-AOL8/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTI0/L2NjYjgwMjlkLWZh/NWMtNDU5Yy05YjBk/LWI0Yzg2MzI3Zjc0/Mi5wbmc.png"
             alt="_bharath914_" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/bharathprakash" target="blank"><img
             align="center"
